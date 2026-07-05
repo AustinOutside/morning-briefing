@@ -24,8 +24,4 @@ If you've never used it, start at [claude.ai](https://claude.ai) or grab the app
 
 That's the whole thing. Really.
 
-## Got one worth sharing back?
-
-If you've got a Claude trick you love, send it my way and I'll add it here with your name on it.
-
 Made with love. Pass it around. 🙌
