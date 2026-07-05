@@ -1,6 +1,6 @@
-# 🧰 Austin's Little Bag of Tricks
+# 🚀 Getting Started with Claude
 
-Stuff I use with Claude that actually makes my life easier. I kept getting asked "wait, how do you do that?", so I figured I'd just put it all in one place. Take whatever's useful.
+A few things I use with Claude that actually make my life easier. I kept getting asked "wait, how do you do that?", so I put it all in one place. Take whatever's useful.
 
 Every trick here is a short guide. You copy a prompt, paste it into Claude, and you're done. No setup, no code, nothing to install.
 
@@ -12,11 +12,15 @@ Every trick here is a short guide. You copy a prompt, paste it into Claude, and 
 
 More on the way. I'll keep adding as I find things worth passing along.
 
+## New to Claude?
+
+If you've never used it, start at [claude.ai](https://claude.ai) or grab the app. Make a free account, and you're ready to paste in your first trick from the list above.
+
 ## How to use any of these
 
 1. Click the trick you want up above.
 2. Copy the prompt inside the guide.
-3. Paste it into Claude ([claude.ai](https://claude.ai) or the app) and hit send.
+3. Paste it into Claude and hit send.
 
 That's the whole thing. Really.
 
